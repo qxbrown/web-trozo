@@ -1,0 +1,89 @@
+@media (max-width: 575.98px) {
+  .navbar {
+    padding: 1.7rem 1rem;
+  }
+
+}
+
+@media (max-width: 767.98px) {
+
+  #home-work h2 {
+    float: none;
+    text-align: center;
+  }
+  #home-work ul {
+    float: none;
+    margin-top: 2rem;
+    place-content: center;
+  }
+  .newsletter-box {
+    padding: 2rem 1rem;
+  }
+  .col.full-input {
+    flex: none;
+    margin: 1rem 0;
+  }
+  .about-text h6 {
+    padding: 0 0rem;
+  }
+
+}
+
+@media (max-width: 991.98px) {
+  .col-md-6 {
+    flex: 0 0 auto !important;
+    width: 100% !important;
+  }
+  .col-md-4 {
+    flex: 0 0 auto;
+    width: 90%;
+    margin: 0 auto;
+  }
+  .title {
+    text-align: center;
+  }
+  .colorful-text {
+    text-align: center;
+  }
+  .about-text {
+    height: auto;
+  }
+  .work-card {
+    margin-top: 3rem;
+  }
+  .objective-card {
+    margin-top: 2rem;
+  }
+  .profile-card {
+    margin-top: 2rem;
+  }
+  .no-mobile {
+    display: none;
+  }
+  .contact-form {
+    margin-top: 5rem;
+  }
+  .copyright {
+    float: none;
+    text-align: center;
+  }
+  .powered {
+    float: none;
+    text-align: center;
+  }
+}
+
+@media (max-width: 1199.98px) {
+
+  .about-text h6 {
+    padding: 2rem;
+  }
+}
+@media (max-width: 1300px) {
+
+}
+@media (max-width: 1500px) {
+  .about-text {
+    padding: 2rem;
+  }
+}
